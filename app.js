@@ -1,15 +1,11 @@
 // app.js
 const express = require('express');
-const app = express();
 const path = require('path');
+const app = express();
 
-// API endpoint to get images
-app.get('/api/images', (req, res) => {
-    res.json(images);
-  });
-
-// Load image data
+// Load image and quiz data
 const images = require('./data/images.json');
+const quizzes = require('./data/quizzes.json');
 
 // Middleware to parse JSON
 app.use(express.json());
@@ -17,14 +13,10 @@ app.use(express.json());
 // Serve static files from the 'public' directory
 app.use(express.static(path.join(__dirname, 'public')));
 
-// Start the server
-const PORT = process.env.PORT || 3000;
-app.listen(PORT, () => {
-  console.log(`Server is running on port ${PORT}`);
+// API endpoint to get images
+app.get('/api/images', (req, res) => {
+  res.json(images);
 });
-
-// Load quiz data
-const quizzes = require('./data/quizzes.json');
 
 // API endpoint to get quiz questions
 app.get('/api/quizzes', (req, res) => {
@@ -46,4 +38,10 @@ app.post('/api/quizzes/submit', (req, res) => {
     };
   });
   res.json({ score, total: quizzes.length, results });
+});
+
+// Start the server
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+  console.log(`Server is running on port ${PORT}`);
 });
