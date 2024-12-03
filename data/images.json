@@ -1,0 +1,19 @@
+[
+    {"src": "/images/real1.jpg", "type": "real"},
+    {"src": "/images/ai1.jpg", "type": "ai"},
+    {"src": "/images/real2.jpg", "type": "real"},
+    {"src": "/images/ai2.jpg", "type": "ai"},
+    {"src": "/images/real3.jpg", "type": "real"},
+    {"src": "/images/ai3.jpg", "type": "ai"},
+    {"src": "/images/real4.jpg", "type": "real"},
+    {"src": "/images/ai4.jpg", "type": "ai"},
+    {"src": "/images/real5.jpg", "type": "real"},
+    {"src": "/images/ai5.jpg", "type": "ai"},
+    {"src": "/images/real6.jpg", "type": "real"},
+    {"src": "/images/ai6.jpg", "type": "ai"},
+    {"src": "/images/real7.jpg", "type": "real"},
+    {"src": "/images/ai7.jpg", "type": "ai"},
+    {"src": "/images/real8.jpg", "type": "real"},
+    {"src": "/images/ai9.jpg", "type": "ai"}  
+  ]
+  

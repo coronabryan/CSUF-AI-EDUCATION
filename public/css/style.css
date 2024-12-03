@@ -1,0 +1,10 @@
+#feedback {
+    font-size: 1.2em;
+  }
+
+  .jumbotron {
+    background-image: url('/images/background.jpg'); /* Adjust path as necessary */
+    background-size: cover; /* Cover the entire area of the jumbotron */
+    background-position: center; /* Center the background image */
+    color: #ffffff; /* Change text color to white for better readability */
+}

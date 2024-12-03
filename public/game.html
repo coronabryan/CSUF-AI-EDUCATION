@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Real vs. AI Image Game</title>
+  <meta charset="UTF-8">
+  <link
+  rel="stylesheet"
+  href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+/>
+</head>
+<body>
+    <div id="game-container" class="container mt-5 text-center">
+      <img id="game-image" src="" alt="Image" class="img-fluid rounded mb-4" />
+      <div>
+        <button onclick="makeGuess('real')" class="btn btn-success btn-lg mr-2">
+          Real
+        </button>
+        <button onclick="makeGuess('ai')" class="btn btn-danger btn-lg ml-2">
+          AI-Generated
+        </button>
+      </div>
+      <p id="feedback" class="mt-4 font-weight-bold"></p>
+    </div>
+    <script src="game.js"></script>
+  </body>
+  

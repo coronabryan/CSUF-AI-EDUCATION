@@ -1,0 +1,326 @@
+[
+    {
+        "id": 1,
+        "question": "What does AI stand for?",
+        "options": {
+            "A": "Artificial Intelligence",
+            "B": "Automated Interface",
+            "C": "Applied Innovation",
+            "D": "Actual Intelligence"
+        },
+        "correctOption": "A",
+        "explanation": "AI stands for Artificial Intelligence."
+    },
+    {
+        "id": 2,
+        "question": "Which algorithm is commonly used for classification tasks?",
+        "options": {
+            "A": "Linear Regression",
+            "B": "Decision Trees",
+            "C": "K-Means Clustering",
+            "D": "Gradient Descent"
+        },
+        "correctOption": "B",
+        "explanation": "Decision Trees are commonly used for classification."
+    },
+    {
+        "id": 3,
+        "question": "What does GPU stand for in the context of AI?",
+        "options": {
+            "A": "Graphics Processing Unit",
+            "B": "General Processing Unit",
+            "C": "Graphical Performance Unit",
+            "D": "General Purpose Unit"
+        },
+        "correctOption": "A",
+        "explanation": "GPU stands for Graphics Processing Unit, crucial for accelerating computing tasks in AI."
+    },
+    {
+        "id": 4,
+        "question": "Which AI technique is used for generating new images?",
+        "options": {
+            "A": "Linear Regression",
+            "B": "Generative Adversarial Networks",
+            "C": "Support Vector Machines",
+            "D": "Principal Component Analysis"
+        },
+        "correctOption": "B",
+        "explanation": "Generative Adversarial Networks (GANs) are used to generate new images and other data."
+    },
+    {
+        "id": 5,
+        "question": "What is the main purpose of using AI in healthcare?",
+        "options": {
+            "A": "To replace doctors",
+            "B": "To improve billing systems",
+            "C": "To predict patient outcomes",
+            "D": "To market pharmaceuticals"
+        },
+        "correctOption": "C",
+        "explanation": "AI is used in healthcare mainly to predict patient outcomes, enhancing treatment and diagnostics."
+    },
+    {
+        "id": 6,
+        "question": "What does RNN stand for in the context of neural networks?",
+        "options": {
+            "A": "Recursive Neural Network",
+            "B": "Residual Neural Network",
+            "C": "Recurrent Neural Network",
+            "D": "Random Neural Network"
+        },
+        "correctOption": "C",
+        "explanation": "RNN stands for Recurrent Neural Network, which is used for processing sequences of data."
+    },
+    {
+        "id": 7,
+        "question": "Which type of AI is capable of self-awareness and consciousness?",
+        "options": {
+            "A": "Artificial General Intelligence",
+            "B": "Artificial Narrow Intelligence",
+            "C": "Artificial Super Intelligence",
+            "D": "Artificial Basic Intelligence"
+        },
+        "correctOption": "C",
+        "explanation": "Artificial Super Intelligence refers to AI that surpasses human intelligence and capability, potentially including self-awareness and consciousness."
+    },
+    {
+        "id": 8,
+        "question": "What type of machine learning involves the use of labeled data?",
+        "options": {
+            "A": "Unsupervised Learning",
+            "B": "Supervised Learning",
+            "C": "Reinforcement Learning",
+            "D": "Semi-supervised Learning"
+        },
+        "correctOption": "B",
+        "explanation": "Supervised Learning involves learning from labeled data to make predictions or classifications."
+    },
+    {
+        "id": 9,
+        "question": "What is 'feature extraction' in the context of AI?",
+        "options": {
+            "A": "Removing unnecessary parts of hardware",
+            "B": "Identifying the most important parts of data",
+            "C": "Creating new algorithms",
+            "D": "Designing AI models"
+        },
+        "correctOption": "B",
+        "explanation": "Feature extraction involves identifying the most important parts of the data to improve model training and outcomes."
+    },
+    {
+        "id": 10,
+        "question": "What role does 'data cleaning' play in AI?",
+        "options": {
+            "A": "It improves the physical storage of data.",
+            "B": "It is purely a theoretical concept.",
+            "C": "It involves organizing and fixing data to better train AI models.",
+            "D": "It refers to deleting old data."
+        },
+        "correctOption": "C",
+        "explanation": "Data cleaning involves organizing and fixing data to ensure better training and efficiency of AI models."
+    },
+    {
+        "id": 11,
+        "question": "What is the Turing Test used to assess?",
+        "options": {
+            "A": "The strength of a computer processor",
+            "B": "The ability of a machine to exhibit intelligent behavior indistinguishable from a human",
+            "C": "The speed of internet connections",
+            "D": "The durability of hardware"
+        },
+        "correctOption": "B",
+        "explanation": "The Turing Test assesses a machine's ability to exhibit intelligent behavior indistinguishable from that of a human."
+    },
+    {
+        "id": 12,
+        "question": "Which AI model is primarily used for translating languages?",
+        "options": {
+            "A": "Convolutional Neural Network",
+            "B": "Transformer Models",
+            "C": "Autoencoders",
+            "D": "Genetic Algorithms"
+        },
+        "correctOption": "B",
+        "explanation": "Transformer Models are primarily used for tasks like translating languages in AI."
+    },
+    {
+        "id": 13,
+        "question": "What is an example of a reinforcement learning application?",
+        "options": {
+            "A": "Email spam filtering",
+            "B": "Self-driving cars",
+            "C": "Optical character recognition",
+            "D": "Password protection systems"
+        },
+        "correctOption": "B",
+        "explanation": "Self-driving cars use reinforcement learning to make decisions based on the environment and outcomes of past decisions."
+    },
+    {
+        "id": 14,
+        "question": "Which AI component is essential for voice recognition technologies?",
+        "options": {
+            "A": "Natural Language Generation",
+            "B": "Speech Recognition",
+            "C": "Facial Recognition",
+            "D": "Text-to-Speech"
+        },
+        "correctOption": "B",
+        "explanation": "Speech Recognition is the AI component essential for interpreting and processing human speech."
+    },
+    {
+        "id": 15,
+        "question": "What does the AI term 'backpropagation' refer to?",
+        "options": {
+            "A": "A method to secure data transmission",
+            "B": "A technique for creating backups of data",
+            "C": "A method used in neural networks to improve model accuracy",
+            "D": "A network setup procedure"
+        },
+        "correctOption": "C",
+        "explanation": "Backpropagation is a method used in neural networks to adjust the model by minimizing the error rate during training."
+    },
+    {
+        "id": 16,
+        "question": "What is the primary purpose of using chatbots in businesses?",
+        "options": {
+            "A": "To facilitate online payments",
+            "B": "To provide customer support",
+            "C": "To manage employee schedules",
+            "D": "To analyze big data"
+        },
+        "correctOption": "B",
+        "explanation": "Chatbots are primarily used in businesses to provide customer support by automating responses and handling inquiries."
+    },
+    {
+        "id": 17,
+        "question": "Which AI application is used for detecting fraud in transactions?",
+        "options": {
+            "A": "Predictive Analysis",
+            "B": "Data Mining",
+            "C": "Anomaly Detection",
+            "D": "Decision Trees"
+        },
+        "correctOption": "C",
+        "explanation": "Anomaly Detection is an AI application used to identify unusual patterns that may indicate fraudulent transactions."
+    },
+    {
+        "id": 18,
+        "question": "What type of data do supervised learning models require for training?",
+        "options": {
+            "A": "Unlabeled data",
+            "B": "Real-time data",
+            "C": "Labeled data",
+            "D": "Synthetic data"
+        },
+        "correctOption": "C",
+        "explanation": "Supervised learning models require labeled data for training, where both input and output data are provided."
+    },
+    {
+        "id": 19,
+        "question": "What role do GPUs play in AI?",
+        "options": {
+            "A": "They primarily manage user interfaces",
+            "B": "They enhance graphic design",
+            "C": "They speed up AI computations",
+            "D": "They store data long-term"
+        },
+        "correctOption": "C",
+        "explanation": "GPUs are crucial in AI for speeding up computations, particularly in tasks involving massive amounts of data like training neural networks."
+    },
+    {
+        "id": 20,
+        "question": "Which AI technique helps in identifying clusters of data?",
+        "options": {
+            "A": "Neural Networks",
+            "B": "Regression Analysis",
+            "C": "Cluster Analysis",
+            "D": "Reinforcement Learning"
+        },
+        "correctOption": "C",
+        "explanation": "Cluster Analysis is used in AI to identify natural groupings or clusters within data."
+    },
+    {
+        "id": 21,
+        "question": "What is a common use of neural networks in business?",
+        "options": {
+            "A": "Staff scheduling",
+            "B": "Customer sentiment analysis",
+            "C": "Financial auditing",
+            "D": "Legal consulting"
+        },
+        "correctOption": "B",
+        "explanation": "Neural networks are commonly used in business for customer sentiment analysis, helping companies understand customer opinions and feelings."
+    },
+    {
+        "id": 22,
+        "question": "Which machine learning model is best for making predictions based on time series data?",
+        "options": {
+            "A": "Linear Regression",
+            "B": "Decision Trees",
+            "C": "K-Means Clustering",
+            "D": "Recurrent Neural Networks"
+        },
+        "correctOption": "D",
+        "explanation": "Recurrent Neural Networks (RNNs) are best for handling time series data, making them ideal for predictions where current data depends on previous data."
+    },
+    {
+        "id": 23,
+        "question": "What AI term describes the process of minimizing the error between actual and predicted outputs?",
+        "options": {
+            "A": "Overfitting",
+            "B": "Optimization",
+            "C": "Encoding",
+            "D": "Extraction"
+        },
+        "correctOption": "B",
+        "explanation": "Optimization in AI involves techniques to minimize the error between actual and predicted outputs to enhance model performance."
+    },
+    {
+        "id": 24,
+        "question": "Which AI method is used for translating spoken language into text?",
+        "options": {
+            "A": "Optical Character Recognition",
+            "B": "Natural Language Processing",
+            "C": "Automatic Speech Recognition",
+            "D": "Sentiment Analysis"
+        },
+        "correctOption": "C",
+        "explanation": "Automatic Speech Recognition (ASR) is the AI method used to convert spoken language into text."
+    },
+    {
+        "id": 25,
+        "question": "What is 'sentiment analysis' used for in AI?",
+        "options": {
+            "A": "Detecting the mood of a speaker",
+            "B": "Analyzing emotions in written text",
+            "C": "Predicting stock market trends",
+            "D": "Measuring CPU performance"
+        },
+        "correctOption": "B",
+        "explanation": "Sentiment analysis is used in AI to analyze emotions and sentiments in written text, useful in fields like marketing and customer service."
+    },
+    {
+        "id": 26,
+        "question": "What does 'data augmentation' mean in the context of machine learning?",
+        "options": {
+            "A": "Increasing the size of the database",
+            "B": "Creating synthetic data to expand datasets",
+            "C": "Improving the quality of data",
+            "D": "Reducing the amount of data needed"
+        },
+        "correctOption": "B",
+        "explanation": "Data augmentation involves creating synthetic data or artificially expanding datasets to improve the training of machine learning models."
+    },
+    {
+        "id": 27,
+        "question": "What AI application analyzes large datasets to find hidden patterns and relationships?",
+        "options": {
+            "A": "Data Mining",
+            "B": "Data Entry",
+            "C": "Data Encoding",
+            "D": "Data Transmission"
+        },
+        "correctOption": "A",
+        "explanation": "Data Mining is the AI application that analyzes large datasets to uncover hidden patterns, relationships, and insights."
+    }
+]

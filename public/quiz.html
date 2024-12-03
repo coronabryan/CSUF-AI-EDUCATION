@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>AI Trivia Quiz</title>
+  <meta charset="UTF-8">
+  <link
+  rel="stylesheet"
+  href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+/>
+</head>
+<body>
+    <div id="quiz-container" class="container mt-5">
+      <h2 id="question" class="mb-4"></h2>
+      <div id="options" class="list-group mb-4">
+        <button
+          onclick="selectOption('A')"
+          id="optionA"
+          class="list-group-item list-group-item-action"
+        ></button>
+        <button
+          onclick="selectOption('B')"
+          id="optionB"
+          class="list-group-item list-group-item-action"
+        ></button>
+        <button
+          onclick="selectOption('C')"
+          id="optionC"
+          class="list-group-item list-group-item-action"
+        ></button>
+        <button
+          onclick="selectOption('D')"
+          id="optionD"
+          class="list-group-item list-group-item-action"
+        ></button>
+      </div>
+      <button
+        onclick="nextQuestion()"
+        id="next-btn"
+        class="btn btn-primary"
+        disabled
+      >
+        Next
+      </button>
+    </div>
+    <script src="quiz.js"></script>
+  </body>
+  
