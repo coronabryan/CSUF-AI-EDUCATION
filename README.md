@@ -1,4 +1,4 @@
-CPSC 454 Cloud Project 
+CPSC 454/491 Cloud Project 
 
 Bryan Corona - bryancorona@csu.fullerton.edu
 
