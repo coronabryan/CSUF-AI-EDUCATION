@@ -1,8 +1,7 @@
 CPSC 454/491 Cloud Project 
 
-Jonathan Escobedo-jonathan.m.escobedo@gmail.com
 Bryan Corona - bryancorona@csu.fullerton.edu
-
+Jonathan Escobedo - jonathan.m.escobedo@gmail.com
 To access this site: https://csufaicloud-ctgwhkgabkb2cbe5.canadacentral-01.azurewebsites.net/ (Will be up until the year ends)
 
 If the site does not work, please open these files from the folder, starting with index.html (found in directory CSUF-AI-EDUCATION-main\public). Please install the following libraries to ensure a smooth operation:
